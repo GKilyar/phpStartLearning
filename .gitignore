@@ -1,0 +1,15 @@
+
+*.json
+*.css
+*.css
+*.eot
+*.svg
+*.ttf
+*.woff
+laravel_test/larapp/public/js/app.js
+laravel_test/larapp/public/fonts/vendor/bootstrap-sass/bootstrap/glyphicons-halflings-regular.woff2
+laravel_test/larapp/public/js/app.js
+laravel_test/larapp/resources/views/layouts/app.blade.php
+laravel_test/larapp/resources/views/layouts/app.blade.php
+laravel_test/larapp/public/js/app.js
+laravel_test/larapp/public/css/app.css
