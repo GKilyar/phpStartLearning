@@ -26,5 +26,7 @@ Route::get('/home', 'HomeController@index')->name('home');
 
 
 Route::get('/about','PageController@about');
-
 Route::get('/service','PageController@service');
+
+
+Route::resource('posts','PostController');
