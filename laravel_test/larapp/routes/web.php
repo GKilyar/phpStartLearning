@@ -12,6 +12,7 @@
 */
 
 Route::get('/','PageController@index');
+Route::get('/asd','StaticPagesController@asd')->name('asd');
 
 // Route::get('/hello', function () {
 //     return '<h2>Hello world!!!</h2>';
